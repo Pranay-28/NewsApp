@@ -8,6 +8,7 @@ A beautiful, responsive news aggregator built with React and Vite that fetches r
 
 <div align="center gap-2">
   <img src="public/SS1.png" alt="NewsPaper App - Main Page" width="20%" />
+  <div width="10-px"></div>
   <img src="public/SS2.png" alt="NewsPaper App - Article Detail" width="20%" />
 </div>
 
