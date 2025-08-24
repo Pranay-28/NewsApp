@@ -24,7 +24,7 @@ A beautiful, responsive news aggregator built with React and Vite that fetches r
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.com) _(Add your deployed link here)_
+[View Live Demo](https://news-app-sepia-delta.vercel.app/) _(Add your deployed link here)_
 
 ## 🛠️ Tech Stack
 
@@ -228,8 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help:
 
 - Create an issue in this repository
-- Email: your-email@example.com
-- Twitter: [@your-handle](https://twitter.com/your-handle)
+- Email: pranaybambole11@gmail.com
 
 ## 🔄 Changelog
 
